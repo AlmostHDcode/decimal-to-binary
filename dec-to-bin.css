@@ -1,0 +1,25 @@
+/* this style sheet is for the decimal to binary conversion project */
+legend {
+    font-size: 16pt;
+    font-family: cursive;
+    color: darkolivegreen;
+}
+form {
+    font-family: Verdana;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+#t1, #t2 {
+    font-family: Verdana;
+    text-align: center;
+    font-size: 14pt;
+}
+#b1 {
+    font-family: sans-serif;
+    font-size: 14pt;
+    color: crimson;
+    border: 2px solid black;
+    border-radius: 15px;
+}
